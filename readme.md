@@ -1,11 +1,11 @@
 # Controller for water heater
 
 ## abstract
-ATtiny microcontroller connected water heater. Original hardware of heater used, but replacement of microcontroller.
+Water heater with temperature selection is controlled with ATtiny. Original hardware of heater used, but replacement of microcontroller.
 
 ## discription
 ### used hardware:
-- Atiny chip
+- ATtiny chip
 - Water heater with 
   - temperature sensor
   - button "start / stop heating" with status led
@@ -13,8 +13,6 @@ ATtiny microcontroller connected water heater. Original hardware of heater used,
   - button "temperature selection"
   - 4 led for temperature display (actual and preselected temperature)
   - pieco beeper to signal end of heating process 
-- Relay Board: 16-channel relay board with 12 VDC power input, 5 VDC voltage regulator for relay control, optocoupler, 250 VAC 10A main relays, led indicator lights, max. power consumption 0,5A @ 12V
-- connector pcb: own build connector pcb to connect ESP32 to MCP and relay board
 
 ### used software:
 - engineering done with Microsoft Visual code with PlatformIO
