@@ -1,0 +1,11 @@
+cycle       KEYWORD1
+writeLed1   KEYWORD1
+writeLed2   KEYWORD1
+writeLed3   KEYWORD1
+writeLed4   KEYWORD1
+writeLed5   KEYWORD1
+writeLed6   KEYWORD1
+readBttn1   KEYWORD1
+readBttn2   KEYWORD1
+readBttn3   KEYWORD1
+

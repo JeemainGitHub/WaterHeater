@@ -1,0 +1,2 @@
+blinking        Keyword1
+cycle           Keyword1
